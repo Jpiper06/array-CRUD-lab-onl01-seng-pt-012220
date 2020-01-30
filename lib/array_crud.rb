@@ -39,6 +39,7 @@ end
 
 def retrieve_first_element_from_array(array)
   
+  5(1) 
   
 end
 
